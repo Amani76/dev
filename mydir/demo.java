@@ -1,8 +1,9 @@
 class demo
 {
-  p.s.v.main(....)
-  {
-    system....()
-  }
+p.s.v.m()
+{
+system ....()
 }
+}
+hello this is java demo file
 
